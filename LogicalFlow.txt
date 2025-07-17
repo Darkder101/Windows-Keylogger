@@ -1,0 +1,15 @@
+Visualization: Logical Flow
+
+[Configuration]: Set compile-time options for visibility, format, boot delay, etc.
+
+[Globals]: Set up key maps and global state like file output and hook handle.
+
+[Utility Functions]: Handle console visibility and boot check.
+
+[Hook Setup]: Set and release the keyboard hook.
+
+[Save Function]: Log keypresses to file with optional formatting and window tracking.
+
+[Hook Callback]: The real-time event function that calls Save().
+
+[Main]: Orchestrates everything: wait if needed, open file, set hook, run message loop.
