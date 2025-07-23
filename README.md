@@ -2,7 +2,7 @@
 
 This is a Windows-based keylogger developed in C++. It captures and logs keystrokes at the system level using Windows Hooks. The project demonstrates how low-level keyboard events can be monitored using the Windows API.
 
-You can checkout https://medium.com/@atharvphadatare78/part-1-learn-building-a-windows-keylogger-with-c-7ad04c1da8c9 ,To learn how to build your own keylogger. And I have explained concepts releted to the Keylogger in detail there.  
+You can checkout https://medium.com/@atharvphadatare78/part-1-learn-building-a-windows-keylogger-with-c-7ad04c1da8c9 ,https://medium.com/@atharvphadatare78/part-2-the-real-spy-work-begins-829674711cdb ,To learn how to build your own keylogger. And I have explained concepts releted to the Keylogger in detail there.  
 
 > ⚠️ **DISCLAIMER:** This tool is built strictly for educational purposes. Unauthorized use of a keylogger is illegal and unethical. Use it only in lab environments or with explicit permission.
 
